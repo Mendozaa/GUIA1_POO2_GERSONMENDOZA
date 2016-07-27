@@ -14,6 +14,6 @@ public class Demo {
         System.err.print("Hola Mundo");
     }
     public void Mendoza(){
-        System.err.print("Adios Mundo");
+        System.err.print("Adios Mundo cruel");
     }
 }
