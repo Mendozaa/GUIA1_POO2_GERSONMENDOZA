@@ -13,4 +13,7 @@ public class Demo {
     public Demo(){
         System.err.print("Hola Mundo");
     }
+    public void Mendoza(){
+        System.err.print("Adios Mundo");
+    }
 }
